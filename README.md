@@ -1,3 +1,2 @@
 # agri_tech
-
-A new Flutter project.
+agri_tech is helping tool to farming
