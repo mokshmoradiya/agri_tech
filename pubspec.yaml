@@ -1,0 +1,25 @@
+name: agri_tech
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/cottan.jpeg
+    - assets/images/rice.jpg
+    - assets/images/Groundnut.jpg
+    - assets/images/maize.jpg
